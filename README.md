@@ -12,11 +12,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@codedbylu" height="40" width="40" align="middle"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Tiktok -->
-  <a href="https://www.tiktok.com/@codedbylu_" target="_blank">
-    <img align="center" src="./assets/images/tik-tok.png" alt="https://www.tiktok.com/@codedbylu_" height="40" width="40" align="middle"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
   <!-- Instagram -->
   <a href="https://instagram.com/codedbylu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/codedbylu" height="40" width="40" align="middle"/>
