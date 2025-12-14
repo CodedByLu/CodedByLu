@@ -13,14 +13,14 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- CSSBattle -->
-  <a href="https://cssbattle.dev/player/codedbylu" target="_blank">
+  <!-- <a href="https://cssbattle.dev/player/codedbylu" target="_blank">
     <img src="./assets/images/css-battle.png" alt="https://cssbattle.dev/player/codedbylu" height="80" width="80" align="middle"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
   <!-- Codewars -->
-  <a href="https://www.codewars.com/users/CodedByLu" target="_blank">
+  <!-- <a href="https://www.codewars.com/users/CodedByLu" target="_blank">
     <img src="https://www.codewars.com/users/CodedByLu/badges/large" alt="https://www.codewars.com/users/CodedbyLu" height="300" width="300" align="middle"/>
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
