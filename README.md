@@ -84,16 +84,6 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Support:</h3>
-<br>
-
-<p>
-  <a href="https://www.buymeacoffee.com/codedbylu"> 
-      <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="https://www.buymeacoffee.com/codedbylu"/>
-  </a>
-</p>
-<br><br>
-
 <br clear="both">
 
 <picture>
