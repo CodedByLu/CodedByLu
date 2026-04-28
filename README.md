@@ -9,7 +9,7 @@
 
   <!-- Youtube -->
   <a href="http://www.youtube.com/@codedbylu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@codedbylu" height="40" width="40" align="middle"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@codedbylu" height="40" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
